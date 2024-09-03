@@ -18,7 +18,7 @@ My areas of interest include:
 - Data Science: Data Analysis, Machine Learning, Deep Learning, NLP, MLOps
 - ML Engineering: Data Science, DSA, System Design, Backend Engineering
 
-## Fun Facts
+##
 - I have a passion for playing football and fortnite with cinematography and game development.
 - I type at a speed of 120 words per minute.
 
